@@ -1,0 +1,6 @@
+name: PoinT
+
+packages:
+  - shared/*
+  - packages/*
+  - apps/*
